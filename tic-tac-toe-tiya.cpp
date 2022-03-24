@@ -89,7 +89,7 @@ int checkwin()
 void board()
 {
 	system("cls");
-	cout << "\n\n\tTic Tac Toe\n\n";
+	//cout << "\n\n\tTic Tac Toe\n\n";
 	cout << "Player 1 (X)  -  Player 2 (O)" << endl << endl;
 	cout << endl;
 	cout << "     |     |     " << endl;
